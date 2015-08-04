@@ -5,7 +5,7 @@
 //  Copyright (c) 2013 Keith Smiley. All rights reserved.
 //
 
-@import UIKit;
+@import Foundation;
 
 @interface NSString (MD5)
 
